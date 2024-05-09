@@ -1,0 +1,11 @@
+.allinoneaccessibility-iframe {
+  width: 1px;
+  min-width: 100%;
+  height: 1700px;
+}
+
+@media (max-width: 850px) {
+  .allinoneaccessibility-iframe {
+    height: 2300px;
+  }
+}

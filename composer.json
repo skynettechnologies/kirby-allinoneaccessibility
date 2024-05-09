@@ -1,0 +1,25 @@
+{
+  "name": "skynettechnologies/kirby-allinoneaccessibility",
+  "description": "Quick Web Accessibility Implementation with All In One Accessibility!",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rajesh Bhimani",
+      "email": "developer3@skynettechnologies.com",
+      "role": "Developer",
+      "homepage": "https://skynettechnologies.com"
+    }
+  ],
+  "support": {
+    "email": "hello@skynettechnologies.com"
+  },
+  "require": {
+    "getkirby/composer-installer": "^1.1",
+    "getkirby/cms": "^4.0.0"
+  },
+  "autoload": {},
+  "config": {
+    "optimize-autoloader": true
+  }
+}
